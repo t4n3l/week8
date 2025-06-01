@@ -116,3 +116,9 @@ footer {
   font-style: italic;
   margin-top: 1.5rem;
 }
+
+#cvImage {
+  transition: opacity 0.4s ease;
+  cursor: pointer;
+}
+
